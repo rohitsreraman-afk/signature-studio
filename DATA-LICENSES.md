@@ -15,3 +15,7 @@ wipo-name-presence.bloom.gz is a compact approximate spelling index derived from
 ## Global frequency estimate
 
 The frequency-based uniqueness estimate uses [Onomaverse Names Datasets v2026.10](https://onomaverse.com/datasets), licensed CC BY 4.0. Attribution: “Names data from Onomaverse (https://onomaverse.com/datasets), licensed CC BY 4.0.” Its country shares are weighted equally by the app and are not population counts.
+
+## Multilingual name forms
+
+The language-form suggestions use a filtered subset of [Onomaverse Multilingual Name Transliterations v2026.10](https://onomaverse.com/datasets/name-transliterations), licensed CC BY 4.0. The app includes records for 13 selectable languages. Locale files load only when selected, and names typed by visitors remain in their browser. Attribution: “Name forms from Onomaverse Multilingual Name Transliterations (https://onomaverse.com/datasets/name-transliterations), licensed CC BY 4.0.” Name spellings vary by source and pronunciation; suggestions are editable and may be approximate.
